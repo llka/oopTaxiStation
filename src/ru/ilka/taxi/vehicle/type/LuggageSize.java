@@ -1,0 +1,12 @@
+package ru.ilka.taxi.vehicle.type;
+
+/**
+ * Здесь могла бы быть ваша реклама +375(29)3880490
+ */
+public enum LuggageSize {
+    EXTRA_SMALL,
+    SMALL,
+    MEDIUM,
+    LARGE,
+    EXTRA_LARGE
+}
